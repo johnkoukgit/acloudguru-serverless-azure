@@ -1,2 +1,2 @@
 # acloudguru-serverless-azure  
-Authored by John Koukaras
+Author is John Koukaras
